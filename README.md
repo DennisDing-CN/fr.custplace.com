@@ -1,6 +1,6 @@
 - ## fr.custplace.com_email逆向
 
-- 爬取难度：★★☆☆☆☆
+- 爬取难度：★★☆☆☆☆☆☆☆☆
 
 - 请求链接：https://fr.custplace.com/Zoomici
 
