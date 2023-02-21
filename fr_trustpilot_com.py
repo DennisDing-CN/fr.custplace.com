@@ -46,7 +46,7 @@ def do_request(url, add_header=None):
 q = ['https://fr.custplace.com/Zoomici','https://fr.custplace.com/Zooplus','https://fr.custplace.com/Zonealarm','https://fr.custplace.com/Zodio','https://fr.custplace.com/zeturf','https://fr.custplace.com/ZENSE','https://fr.custplace.com/Zepass','https://fr.custplace.com/Zattoo','https://fr.custplace.com/Zara']
 
 def main():
-    with open('fr_trus/1.js', 'r', encoding='utf-8') as f:
+    with open('fr_trustpilot_com.js', 'r', encoding='utf-8') as f:
         line = f.read()
         js_ = execjs.compile(line)
     while True:
